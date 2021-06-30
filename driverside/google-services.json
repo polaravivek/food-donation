@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "522499327076",
+    "firebase_url": "https://food-donation-376e6-default-rtdb.firebaseio.com",
+    "project_id": "food-donation-376e6",
+    "storage_bucket": "food-donation-376e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522499327076:android:5d6fdde0ffc5b1e5e20b71",
+        "android_client_info": {
+          "package_name": "com.vivekcorp.driverside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522499327076-qvksp0gomiic27i1pb22fmtk929sqrc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjWu4g74MPGD-rhbUtuQVCHWN4opC55_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522499327076-qvksp0gomiic27i1pb22fmtk929sqrc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522499327076:android:6ba1cdd039541b54e20b71",
+        "android_client_info": {
+          "package_name": "com.vivekcorp.fooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522499327076-qvksp0gomiic27i1pb22fmtk929sqrc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjWu4g74MPGD-rhbUtuQVCHWN4opC55_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522499327076-qvksp0gomiic27i1pb22fmtk929sqrc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
